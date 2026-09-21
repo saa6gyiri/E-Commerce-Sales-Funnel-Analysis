@@ -94,4 +94,12 @@ The revenue analysis calculates:
 
 These metrics connect funnel activity to business outcomes.
 
-## Key Findings 
+## Key Findings & Recommendations
+1. Marketing Strategy
+- Reduce the budget for social media for sales: Social media drives 30% of traffic (website volume and page views) but has the lowest purchase conversion rate.
+- Double Down and Focus on Email Marketing: Email is the highest-converting channel. Try implementing an email capture pop-up for social media visitors to get them on the email list
+
+2. Website Optimization
+   - r
+
+
