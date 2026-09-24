@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Funnel-Analysis 📦
+# E-Commerce Sales Funnel Analysis 📦
 ## Project Overview 🚀
 This project analyzes e-commerce customer behavior using SQL to understand how users progress through the online shopping journey, from their first page view to completing a purchase.
 
